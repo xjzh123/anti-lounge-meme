@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "html-to-text": "^9.0.3",
+    "koa": "^2.14.1",
+    "koa-body": "^6.0.1",
+    "koa-route": "^3.2.0",
+    "node-pinyin": "^0.2.3",
+    "node-pre-gyp-github": "^1.4.4",
+    "remarkable": "^2.0.1"
+  }
+}
