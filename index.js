@@ -41,8 +41,5 @@ const main = (ctx, next) => {
 
 app.use(main)
 
-if (!deta) {
-    app.listen(3000)
-} else {
-    module.exports = app
-}
+
+module.exports = app

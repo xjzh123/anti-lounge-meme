@@ -1,2 +1,2 @@
 import requests
-print(requests.post('http://127.0.0.1:3000', {'message': 'jibå'}).content.decode())
+print(requests.post('https://6kkcp1.deta.dev/', {'message': 'jibå'}).content.decode())
